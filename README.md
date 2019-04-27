@@ -10,7 +10,7 @@ springmvc + mybaties + aspectj + log4j + mysql
 	4、 命令窗口 执行 git add .  全部文件加入git
 	5、 命令窗口 执行 git commit -m "first commit"   
 	6、 命令窗口 执行 git remote add origin https://github.com/wanlinmj/springmvc201904.git
-	7、 命令窗口 执行 git push -u origin master  上传项目到
+	7、 命令窗口 执行 git push -u origin master  上传项目到 git
 
 
 
